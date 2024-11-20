@@ -1,5 +1,3 @@
-
-
 import java.util.ArrayList;
 import java.util.Scanner;
 
@@ -8,8 +6,7 @@ import java.util.Scanner;
  * with a shared data object. It accepts input from the user, initializes shared data, and 
  * creates threads to perform operations on the array.
  * 
- * @author Your Name
- * @version 1.0
+ * @author BADER BOSHNAK
  */
 public class TestThreadCheckArray {
 
@@ -90,6 +87,6 @@ public class TestThreadCheckArray {
                 else
                     System.out.print("0    ");
             }
-        }
-    }
-}
+        }  
+    }  
+}  
